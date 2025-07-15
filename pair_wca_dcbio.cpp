@@ -9,6 +9,10 @@
    the GNU General Public License.
 
    See the README file in the top-level LAMMPS directory.
+
+*************
+Modified by Rabindranath Mallick from IMSc, Chennai
+*************
 ------------------------------------------------------------------------- */
 
 #include "math.h"
