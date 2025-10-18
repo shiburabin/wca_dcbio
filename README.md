@@ -1,2 +1,2 @@
 # wca_dcbio
-LAMMPS source files for WCA potential
+LAMMPS test source files for WCA potential
