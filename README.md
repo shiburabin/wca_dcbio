@@ -3,4 +3,4 @@
 LAMMPS source files for the WCA potential.
 
 ## Build
-uses lammps 2023 versionTest line
+uses lammps 2023 version
