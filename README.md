@@ -1,2 +1,6 @@
 # wca_dcbio
-LAMMPS test source files for WCA potential
+
+LAMMPS source files for the WCA potential.
+
+## Build
+uses lammps 2023 versionTest line
